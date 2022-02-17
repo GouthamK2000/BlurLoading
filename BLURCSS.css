@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    font-family:cursive;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    height:100vh;
+    overflow:hidden;
+    margin:0;
+    background-image:url(babes.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.percent{
+    color: black;
+    font-size: 40px;
+}
